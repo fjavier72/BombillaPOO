@@ -106,6 +106,10 @@ public class Main {
 			
 			
 		} while (opcion != 8);
+		
+		input.close();
 	}
+	
+	
 
 }
